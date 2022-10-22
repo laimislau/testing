@@ -7,3 +7,6 @@
 * To push commits to remote repo us $ git push origin <current branch name>
 * To create new branch runb $ git checkout -b <branc name>
 
+
+
+## Simple addidtion of file
