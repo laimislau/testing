@@ -11,5 +11,3 @@
     * If there are no conflict or they are solved, run $ git push origin HEAD --force-with-lease
 * To not to track files with git, create a file .gitignore
 * To remove cached files, run $ git rm -rf . --cached
-
-kodel?
