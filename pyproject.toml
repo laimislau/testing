@@ -1,0 +1,5 @@
+[tool.poetry]
+name = "testing"
+version = "0.0.1"
+description = "Learning to use Github as well as getting to know Python project structure."
+authors = ["laimislau <laucius.laimis@yahoo.com>"]
